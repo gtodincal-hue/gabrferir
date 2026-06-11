@@ -1,4 +1,5 @@
 contador=0
 while contador<20:
     print(contador)
-    contador+=1
+    contador+=10
+    
