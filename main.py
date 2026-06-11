@@ -9,4 +9,4 @@ while continuar is True:
         continuar = False
     else:
         print("Resposta inválida. Por favor, digite 's' para sim ou 'n' para não.")
-    print("Programa encerrado.")
+    print("pao")
